@@ -9,6 +9,7 @@
 ### Installing
 
 * ```pip install python-telegram-bot --upgrade```
+* set your token and user ID in data folder
 
 ### Executing program
 
